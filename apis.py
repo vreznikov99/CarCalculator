@@ -1,6 +1,6 @@
 def get_gas_price():
     # TODO: get gas price from API
-    return 9
+    return 8
 
 
 def get_power_price():
