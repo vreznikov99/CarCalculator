@@ -12,4 +12,8 @@ if __name__ == '__main__':
     calc.add_car(
         calculator.Car("Range Rover", 650000, 3, 3000, 7000),
     )
+    calc.add_car(
+        calculator.Car("Audi", 500000, 3, 3000, 7000),
+    )
+
     calc.print_cars()
